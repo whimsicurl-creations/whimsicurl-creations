@@ -1,4 +1,8 @@
+[![Bethany's header image](https://raw.githubusercontent.com/whimsicurl-creations/whimsicurl-creations/main/img/github-header.jpg?token=AKCES7GHC3G5ZK7G5PCWQNDAF2MLM)](http://whimsicurlcreations.com/)
+
 ### Hi there 👋
+
+I'm Bethany, a web designer and front-end web developer.  I'm looking for opportunities where I can utilize both my design and coding skills to make beautiful, useful websites across all screen sizes and platforms.
 
 <!--
 **whimsicurl-creations/whimsicurl-creations** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

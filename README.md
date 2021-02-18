@@ -1,4 +1,4 @@
-[![Header](https://raw.githubusercontent.com/whimsicurl-creations/whimsicurl-creations/main/img/github-header.jpg?token=AKCES7G2Y3WVZCHLYSQCXZ3AF2KI2)](whimsicurlcreations.com/)
+# [![Bethany's header](https://raw.githubusercontent.com/whimsicurl-creations/whimsicurl-creations/main/img/github-header.jpg?token=AKCES7B6HO4YUZ2PV272TTLAF2LTM)](whimsicurlcreations.com/)
 
 ### Hi there 👋
 

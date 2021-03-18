@@ -12,8 +12,10 @@ Here's a look at some of my coding projects so far:
     - [Live version](https://whimsicurl-creations.github.io/206-unplugged-ver2/) and [GitHub Code Repo](https://github.com/whimsicurl-creations/206-unplugged-ver2)
 - Conquer Template Recreation for Chingu Pre-Work
     - [Live version](https://whimsicurl-creations.github.io/chingu-pre-work/) and [GitHub Code Repo](https://github.com/whimsicurl-creations/chingu-pre-work)
-- FreeCodeCamp Portfolio Site Project
-    - [Live version](https://whimsicurl-creations.github.io/fcc-portfolio-site/) and [GitHub Code Repo](https://github.com/whimsicurl-creations/fcc-portfolio-site)
+- Dorothy DeLong Photographer Site
+    - [Live version](https://whimsicurl-creations.github.io/dorothy-site/) and [GitHub Code Repo](https://github.com/whimsicurl-creations/dorothy-site)
+- Frontend Mentor Four Card Responsive Layout
+    - [Live version](https://whimsicurl-creations.github.io/fm-four-card/) and [GitHub Code Repo](https://github.com/whimsicurl-creations/fm-four-card)
 - Jubilee Austen Single Page Site
     - [Live version](https://whimsicurl-creations.github.io/jubilee-austen/) and [GitHub Code Repo](https://github.com/whimsicurl-creations/jubilee-austen)
 - Rogue Pickings Responsive Site
